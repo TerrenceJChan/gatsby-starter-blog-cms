@@ -26,7 +26,7 @@ collections:
       - {label: "Featured Image", name: "featuredimage", widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Slug", name: "slug", slug: "custom-slug"}
+      - {label: "Slug", name: "slug", slug: "text"}
 
   - name: "pages"
     label: "Pages"
